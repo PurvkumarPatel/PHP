@@ -1,0 +1,1 @@
+ok write in fileok rewrite in fileok appended in file
